@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Year: 
+  Industry_aggregation_NZSIOC: MyString
+  Industry_code_NZSIOC: MyString
+  Industry_name_NZSIOC: MyString
+  Units: MyString
+  Variable_code: MyString
+  Variable_name: MyString
+  Variable_category: MyString
+  Value: MyString
+  Industry_code_ANZSIC06: MyString
+
+two:
+  Year: 
+  Industry_aggregation_NZSIOC: MyString
+  Industry_code_NZSIOC: MyString
+  Industry_name_NZSIOC: MyString
+  Units: MyString
+  Variable_code: MyString
+  Variable_name: MyString
+  Variable_category: MyString
+  Value: MyString
+  Industry_code_ANZSIC06: MyString
